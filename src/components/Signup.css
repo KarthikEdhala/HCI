@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('/Users/edhalakarthik/Desktop/my-react-project/public/blog platform image.jpeg'); /* Replace 'background_image.jpg' with your image path */
+    background-image: url('https://img.freepik.com/free-photo/blue-surface-with-study-tools_23-2147864592.jpg'); /* Replace 'background_image.jpg' with your image path */
     background-size: cover;
     background-position: center;
     height: 100vh;
